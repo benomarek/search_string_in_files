@@ -21,4 +21,8 @@ Search for a string in files is application which can be used to search for a st
 -IDE:\
 ![img.png](img.png)
 
-
+### Test
+arguments for test :\
+-p <path_to_project>\test\
+-s Lorem\
+-t 5
