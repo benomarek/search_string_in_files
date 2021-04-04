@@ -16,7 +16,7 @@ Search for a string in files is application which can be used to search for a st
 ## Run
 ### Example
 -jar:
->string_finder.jar -p path -s searched_string -t num_of_threads
+>java -jar string_finder.jar -p path -s searched_string -t num_of_threads
 
 -IDE:\
 ![img.png](img.png)
