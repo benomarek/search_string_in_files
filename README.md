@@ -7,19 +7,18 @@ Search for a string in files is application which can be used to search for a st
 
 -java 11
 
-## Arguments:
 
+>## Arguments:
 >-p : path to file or folder\
--s : string to be searched - max 128 chars\
--t : (optional) number of threads used for search
+>-s : string to be searched - max 128 chars\
+>-t : (optional) number of threads used for search
 
-##Run
+## Run
 ### Example
-#####-jar:
-
+-jar:
 >string_finder.jar -p path -s searched_string -t num_of_threads
 
-#####-IDE:
+-IDE:\
 ![img.png](img.png)
 
 
